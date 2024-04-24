@@ -6,6 +6,7 @@ Vision transformer-based approach for Peptide-protein interface Classification (
 
 ![Static Badge](https://img.shields.io/badge/build-v1.0.0-blue?label=version)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/LBS-UFMG/ViPeC)](https://github.com/LBS-UFMG/ViPeC/commits)
+[![GitLab Contributors](https://img.shields.io/gitlab/contributors/LBS-UFMG/ViPeC)](https://img.shields.io/gitlab/contributors/LBS-UFMG/ViPeC)
 [![GitHub Watchers](https://img.shields.io/github/watchers/LBS-UFMG/ViPeC?style=social)](https://github.com/LBS-UFMG/ViPeC)
 [![GitHub Stars](https://img.shields.io/github/stars/LBS-UFMG/ViPeC?style=social)](https://github.com/LBS-UFMG/ViPeC)
 [![GitHub Forks](https://img.shields.io/github/forks/LBS-UFMG/ViPeC?style=social)](https://github.com/LBS-UFMG/ViPeC)
